@@ -1,0 +1,4 @@
+PROTOCOL = "http"
+IP_ADDRESS = "192.168.0.10"
+PORT = 5000
+NAMESPACE = "/video"

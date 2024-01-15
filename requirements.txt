@@ -1,0 +1,6 @@
+
+python-socketio
+opencv-python
+numpy
+requests
+websocket-client
